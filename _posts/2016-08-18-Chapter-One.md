@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chapter one
+date: 18/08/2016
 ---
 
 I've been chasing my tail on this one, thinking of ways to crystalise my thoughts into something concrete. I am hoping the act of blogging this process will break the cycle and lead to something more produtive.
