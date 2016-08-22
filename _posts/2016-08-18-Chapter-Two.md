@@ -1,3 +1,8 @@
+---
+layout: post
+title: Chapter Two
+---
+
 To test the link between competitive outcomes, growth rates and plant functional traits, I aim to establish a glasshouse competition trial between common and abundant grass species found in the Australian Capital Territory.
 
 Using a response surface design, I will examine the effect of nutrient availablity (low, medium and high) on the competitve outcomes between exotic species and a representative native community. Germinated seedlings of equivalent size will be planted into 13cm diameter pots, 2L volume, filled with nutrient poor, sterilised riversand and vermiculite. 1/8, 1/2 and 1 strenght Hoagland soltion will be added to each pot at the beginning of the experiment, and all plots will be watered equally to prevent water limitations.
