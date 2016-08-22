@@ -22,11 +22,10 @@ There has been much hope that these trade-offs will manifest in plant functional
 To test these ideas, we compare the differences between native and exotic species responses to nutrient availability, fencing and functional traits to demonstrate the resulting competitive outcomes in relation so enemy escape.
 
 Several preliminary hypotheses warrant examination:
-
- - Exotic species typicaly occupy high nutrient sites.
- - Exotic species increase in abundance after herbivore exclusion.
- - Species increase in abundance have functional traits associated with rapid growth.
- - The exclusion of native species and decline in species richness at high nutrient sites after fencing is the result of asymptotic competition for light relative to soil resources.
+- Exotic species typicaly occupy high nutrient sites.
+- Exotic species increase in abundance after herbivore exclusion.
+- Species increase in abundance have functional traits associated with rapid growth.
+- The exclusion of native species and decline in species richness at high nutrient sites after fencing is the result of asymptotic competition for light relative to soil resources.
 
 Hierarchical Bayesian modelling lends itself to the examination of this dataset, as it is flexible enough to fully exploit the advantages of the experimental design and allows us to draw inference from different sampling methods. For brief run down of the experiment to date, 100 25m^2 plots were established at 10 sites throughout a ~200ha reserve. These 10 sites were pseuo-randomly distritbuted, with the caveat that each site consisited of similar terrain and was not shaded by nearby trees. Annual vegetative surveys of the hundred plots have been undertake using two simultaneous sampling methods: each plot is divded into four 1m^2 quadrats, with species precences recorded in each of 9 ~33cm^2 sub-quadrats during peak biomass in late October and early November. Within each quadrat, abundance was estimated as the percentage cover of each species canopy, as well as an estimate of percentage cover of litter, bare ground and rocks. The mean abundance is calculated as the average cover of each species between the four quadrats within a plot.
 
