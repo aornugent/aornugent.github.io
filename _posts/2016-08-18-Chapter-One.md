@@ -22,6 +22,7 @@ There has been much hope that these trade-offs will manifest in plant functional
 To test these ideas, we compare the differences between native and exotic species responses to nutrient availability, fencing and functional traits to demonstrate the resulting competitive outcomes in relation so enemy escape.
 
 Several preliminary hypotheses warrant examination:
+
  - Exotic species typicaly occupy high nutrient sites.
  - Exotic species increase in abundance after herbivore exclusion.
  - Species increase in abundance have functional traits associated with rapid growth.
