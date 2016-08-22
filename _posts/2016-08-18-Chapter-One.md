@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chapter one
+title: Chapter One
 date: 18/08/2016
 ---
 
