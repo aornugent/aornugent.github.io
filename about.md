@@ -8,7 +8,7 @@ I am a current PhD candidate at the Institute for Applied Ecology, University of
 
 My supervisors include Centenary Professor Richard Duncan (IAE, University of Canberra, AUS), Dr. Elizabeth Wandrag (IAE, University of Canberrra, AUS), Assistant Professor Jane Catford (University of Southampton, UK), Professor Don Driscoll (Deakin University, AUS) and Associate Professor Bernd Gruber (IAE, University of Canberra, AUS).
 
-### Previous experience:
+### Previous experience (dates listed upon completion):
 
 - 2015: Field biologist, Grupo de Conservacion de Islas (MEX)
 - 2013: Respiratory Physiologist, Christchurch Hospital (NZ)
