@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A simple blog
-date: 16/08/16
+date: 17/08/16
 ---
 
 Github Pages offer a great way to set up a clean, simple blogging platform to share personal and professional musings. 
