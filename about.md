@@ -10,12 +10,12 @@ My supervisors include Centenary Professor Richard Duncan (IAE, University of Ca
 
 ### Previous experience:
 
-2015 - Field biologist, Grupo de Conservacion de Islas (MEX)
-2013 - Respiratory Physiologist, Christchurch Hospital (NZ)
-2012 - Certified Respiratory Function Scientist, Australia and New Zealand Society for Resiratory Scientistis (AUS/NZ)
-2012 - MHealthSci in Respiratory Physiology, Charles Sturt University (AUS)
-2009 - BSc in Plant Biotechnology, University of Otago (NZ)
-2008 - Field technician, Landcare Research (NZ)
+- 2015: Field biologist, Grupo de Conservacion de Islas (MEX)
+- 2013: Respiratory Physiologist, Christchurch Hospital (NZ)
+- 2012: Certified Respiratory Function Scientist, Australia and New Zealand Society for Resiratory Scientistis (AUS/NZ)
+- 2012: MHealthSci in Respiratory Physiology, Charles Sturt University (AUS)
+- 2009: BSc in Plant Biotechnology, University of Otago (NZ)
+- 2008: Field technician, Landcare Research (NZ)
 
 ### Contact me
 
