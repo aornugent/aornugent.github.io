@@ -17,13 +17,13 @@ While not the first to consolidate these two hypotheses (eg: Blumenthal, 2006), 
 The interaction of resource availablity and herbivore exclusion leading to increased exotic dominance mirrors the same responses expected from the growth-defence trade-off exemplified in the NutNET trials. The growth-defence trade-off places rapid growth and the ability to exploit abundant resources in opposition to conservative growth and the ability to tolerate the stresses of resource poor or high predation evironments.
 Fundamental trade-offs are an intuitive idea that is commonly invoked when exploring competition between species and coexistence of species within communities: put simply, two species may share an overlapping niche where neither are able to fully capture the common resource pool. This idea has been explored in depth by the work of Tilman (1988 onwards) and forms an integral part of modern Chessonian co-existence theory (Chesson, 2000). Should a single species not abide the same constraint as others, it will likely lead to total exclusion of all neighbouring species. 
 
-There has been much hope that these trade-off will manifest in plant functional traits, simplifying our job of generalising species responses to suites of trait combinations. For example, the leaf economic spectrum suggests that specific leaf area (SLA; the weight per area of a leaf) is positively correlated with photosynthetic capacity and negatively correlated with leaf lifespan. We hope to generalise this association to overall difference in plant growth rates and show how difference in growth rates are effective in predicting invasion outcomes.
+There has been much hope that these trade-offs will manifest in plant functional traits, simplifying our job of generalising species responses to suites of trait combinations. For example, the leaf economic spectrum suggests that specific leaf area (SLA; the weight per area of a leaf) is positively correlated with photosynthetic capacity and negatively correlated with leaf lifespan. We hope to generalise this association to overall difference in plant growth rates and show how difference in growth rates are effective in predicting invasion outcomes.
 
 To test these ideas, we compare the differences between native and exotic species responses to nutrient availability, fencing and functional traits to demonstrate the resulting competitive outcomes in relation so enemy escape.
 
 Several preliminary hypotheses warrant examination:
-  Exotic species typicaly occupy high nutrient sites.
-  Exotic species increase in abundance after herbivore exclusion.
-  Species increase in abundance have functional traits associated with rapid growth.
-  The exclusion of native species and decline in species richness at high nutrient sites after fencing is the result of asymptotic competition for light relative to soil resources.
+ - Exotic species typicaly occupy high nutrient sites.
+ - Exotic species increase in abundance after herbivore exclusion.
+ - Species increase in abundance have functional traits associated with rapid growth.
+ - The exclusion of native species and decline in species richness at high nutrient sites after fencing is the result of asymptotic competition for light relative to soil resources.
 
