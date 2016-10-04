@@ -42,8 +42,11 @@ In 2015, functional trait measurement of vegetative and maximum height, vegetati
 
 Principal component analysis of soil nutrient measurements reveal that the 10 sites are arranged along a environmental gradient of fertility, primarily differing in total and available nitrogen and phosphorous, including ammonium and nitrates.
 
+**Include PCA of soil and communities**
+
 A preliminary analysis shows that while the proportion of exotic species cover inside plots increases along this fertility gradient, there are significant differences between treated and fenced plots. By grouping plots into combinations of year, fencing and treatment, we discover a consistent increase in the proportion of exotic species at high nutrients site in fenced control plots. This pattern is absent in open control plots and plots that received all other treatments.
 
  ![Figure. 1](/images/2016-10-04_Pinnacle_vegetation_surveys/fencing_effect2011-15.png)
+ *Figure 1. Relationship between log proportion of exotic species and fertility increases inside fenced control plots between 2011 and 2015. This inccrease is absent from all other plots.*
 
-This result is consistent with the expected response of exotic species increasing in abundance after enemy escape, and the interaction of with fertility reinforces the idea that exotic species have high nutrient requirements associated with rapid growth.
+This result is consistent with the expected response of exotic species increasing in abundance after enemy escape, and the interaction of with fertility reinforces the idea that exotic species have high nutrient requirements associated with rapid growth. However, this analysis relies on multiple comparisons (10 fenced control plots compared to the remaining 90 plots, over several years) significantly increasing the probability of such a pattern occurring by chance (five attempts at 1 in 20 odds off the top of my head). Instead we turn to modern methods of occupancy modeling that estimate rates of change (Camac 2015).
